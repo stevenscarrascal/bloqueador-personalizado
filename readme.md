@@ -1,5 +1,5 @@
 # 🔒 Bloqueador Personalizado de Sitios Web (Extensión Chrome)
-
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 Una extensión de Chrome desarrollada en Manifest V3 que te permite **bloquear sitios web personalizados**, añadir dominios directamente desde el clic derecho y gestionar tu lista negra desde un popup interactivo.
 
 ---
