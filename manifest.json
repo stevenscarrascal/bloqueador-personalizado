@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Bloqueador Personalizado",
+    "name": "Bloqueador de sitios",
     "version": "1.0",
     "description": "Bloquea sitios y permite agregarlos desde clic derecho",
     "permissions": [
@@ -44,5 +44,8 @@
         "16": "icon.png",
         "48": "icon.png",
         "128": "icon.png"
-    }
+    },
+    "homepage_url": "https://github.com/stevenscarrascal/bloqueador-personalizado",
+    "author": "Steven Carrascal - Desarrollador Web", 
+    "version_name": "1.0 inicial"
 }
